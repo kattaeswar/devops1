@@ -22,7 +22,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>pcr</id>
-			<url>http://localhost:8081/nexus/content/repositories/pcr/</url>
+			<url>http://192.168.33.10:8081/nexus/content/repositories/pcr/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
